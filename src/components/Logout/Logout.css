@@ -4,7 +4,6 @@
   align-items: center;
   justify-content: center;
   height: 100vh;
-  font-family: "Inter";
 }
 
 .logout__button {
@@ -16,7 +15,6 @@
   color: white;
   font-size: 18px;
   font-weight: 600;
-  font-family: "Inter";
   border-radius: 3px;
 }
 

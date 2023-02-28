@@ -5,8 +5,7 @@ section {
 }
 
 .login {
-  font-family: "Inter";
-  max-width: 500px;
+  max-width: 550px;
   margin: 25px auto;
   padding: 35px 20px;
   box-shadow: 0 0 15px -3px #cf5813;

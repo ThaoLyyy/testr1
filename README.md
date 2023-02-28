@@ -6,6 +6,9 @@
 - HTML5/CSS3
 - Javascript
 - ReactJS
+- Redux
+- ReduxJS/toolkit
+
 
 ### Information:
 
@@ -40,35 +43,20 @@
 git clone https://github.com/ThaoLyyy/react_exercises
 ```
 
-- Step 2: Change Folder Directory
-```bash
-cd testr1
-```
 
-- Step 3: Checkout branch
-```bash
-git checkout develop
-
-```
-
-- step 4:
+- step 2:
 ```bash
 npm install
 ```
 
-- step 5 : run project
+- step 3 : run project
 ```bash
 npm start
 ```
 
-- step 6: Open in browser:
+- step 4: Open in browser:
 ```
 http://localhost:3000
-```
-
-- step 7 : run storybook
-```bash
-npm run storybook
 ```
 
 ###  Author
