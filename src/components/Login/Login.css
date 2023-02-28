@@ -1,0 +1,136 @@
+section {
+  width: 100%;
+  padding: 10px;
+  margin: 80px;
+}
+
+.login {
+  font-family: "Inter";
+  max-width: 500px;
+  margin: 25px auto;
+  padding: 35px 20px;
+  box-shadow: 0 0 15px -3px #cf5813;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.form_data {
+  width: 100%;
+  padding: 10px 30px;
+  max-width: 550px;
+  margin: 25px auto;
+  padding: 35px 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.login__form {
+  display: flex;
+  flex-direction: column;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.login__form>h1 {
+  font-size: 35px;
+  margin-bottom: 15px;
+  padding-bottom: 10px;
+  letter-spacing: -1px;
+  font-size: 50px;
+  color: rgb(237 127 18 / 92%);
+}
+
+.login__form>p {
+  color: #6c737dbf;
+  font-size: 18px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.login__form>input {
+  min-width: 380px;
+  padding: 20px 0;
+  padding-left: 15px;
+  margin-bottom: 10px;
+  outline: none;
+  border: 1px solid rgba(0, 0, 0, 0.24);
+  font-family: "Inter";
+  border-radius: 2px;
+  font-size: 15px;
+}
+
+.form_input {
+  width: 100%;
+  padding: 11px;
+  outline: none;
+  margin-bottom: 14px;
+  margin-top: 9px;
+  font-size: 15px;
+}
+
+input {
+  width: 100%;
+  padding: 15px;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  margin-top: 20px;
+}
+
+.form_input label {
+  font-weight: 600;
+  font-size: 18px;
+
+}
+
+.form_input-is-text {
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+
+.login__form form .form_input input {
+  width: 100%;
+  padding: 11px;
+  border: 1px solid #d9e2e4b2;
+  border-radius: 5px;
+  outline: none;
+  margin-bottom: 14px;
+  margin-top: 9px;
+  font-size: 14px;
+}
+
+.submit__btn {
+  /* padding: 17px 30px;
+    margin-top: 10px;
+    background: black;
+    border: none;
+    color: rgb(223, 223, 223);
+    font-size: 14px;
+    font-family: "Inter";
+    border-radius: 3px; */
+
+  display: block;
+  width: 50%;
+  padding: 15px;
+  border: none;
+  outline: none;
+  border-radius: 15px;
+  background-color: #e89221;
+  color: #fff;
+  font-weight: 600;
+  font-size: 18px;
+  margin-top: 20px;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.submit__btn:hover {
+  background-color: #3c70d8e3;
+}
+
+/* =========== */
